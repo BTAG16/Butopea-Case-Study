@@ -82,7 +82,7 @@ src/
 
 #### Global Styling (styles/globals.css)
 **Process**:
-- Provided Banner component PDF documentation to Claude AI
+- Provided Banner component documentation to Claude AI
 - Requested global styling recommendations with mobile responsiveness
 - Iteratively built upon AI-generated foundation
 - Customized and refined styles based on project needs
